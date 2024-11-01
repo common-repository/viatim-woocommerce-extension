@@ -1,0 +1,184 @@
+# Copyright (C) 1 ViaTim WooCommerce Extension
+# This file is distributed under the same license as the ViaTim WooCommerce Extension package.
+msgid ""
+msgstr ""
+"Project-Id-Version: ViaTim WooCommerce Extension 0.1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/viatim-"
+"woocommerce-plugin\n"
+"POT-Creation-Date: 2017-09-12 08:53:42+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-09-12 10:58+0200\n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.0.3\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: nl_NL\n"
+
+#: includes/rates.php:3
+msgid "same_day_delivery"
+msgstr "same_day_bezorging"
+
+#: includes/rates.php:4
+msgid "ViaTim Same Day"
+msgstr "ViaTim Same Day Bezorging"
+
+#: includes/rates.php:9
+msgid "next_day_delivery"
+msgstr "next_day_bezorging"
+
+#: includes/rates.php:15
+msgid "international_delivery"
+msgstr "buitenland_bezorging"
+
+#: includes/rates.php:16
+msgid "ViaTim International"
+msgstr "ViaTim Buitenland"
+
+#: includes/rates.php:21
+msgid "free_delivery"
+msgstr "gratis_bezorging"
+
+#: includes/rates.php:22
+msgid "Free ViaTim Delivery"
+msgstr "Gratis ViaTim Bezorging"
+
+#: viatim-woocommerce-plugin.php:32
+msgid "ViaTim"
+msgstr "ViaTim"
+
+#. Description of the plugin/theme
+#: viatim-woocommerce-plugin.php:33
+msgid "Send your packages with ViaTim."
+msgstr "Verzend jouw pakketten met ViaTim."
+
+#: viatim-woocommerce-plugin.php:91
+msgid ""
+"ViaTim WooCommerce Plugin requires %sWooCommerce%s to be installed & "
+"activated!"
+msgstr ""
+"De ViaTim WooCommerce Plugin heeft de WooCommerce plugin nodig "
+"(geïnstalleerd en geactiveerd) om te kunnen werken!"
+
+#: viatim-woocommerce-plugin.php:97
+msgid ""
+"ViaTim WooCommerce Plugin requires the <a href=\"https://wordpress.org/"
+"plugins/order-delivery-date-for-woocommerce/\" target=\"_blank\">Order "
+"Delivery Date for WooCommerce</a> plugin to be installed & activated!"
+msgstr ""
+"De ViaTim WooCommerce Plugin heeft de <a href=“https://wordpress.org/plugins/"
+"order-delivery-date-for-woocommerce/“ target=“_blank”>Order Delivery Date "
+"for WooCommerce</a> plugin nodig (geïnstalleerd en geactiveerd) om te kunnen "
+"werken!"
+
+#: viatim-woocommerce-plugin.php:175
+msgid "You don't have a postcode saved in your account settings."
+msgstr "Je hebt geen postcode ingesteld in je account."
+
+#: viatim-woocommerce-plugin.php:180
+msgid "There are no postcodes."
+msgstr "Er zijn geen postcodes beschikbaar."
+
+#: viatim-woocommerce-plugin.php:189
+msgid "ViaTim Delivery"
+msgstr "ViaTim Bezorging"
+
+#: viatim-woocommerce-plugin.php:191
+msgid "Activate"
+msgstr "Activeer"
+
+#: viatim-woocommerce-plugin.php:193
+msgid "Activate the ViaTim delivery option for your webshop."
+msgstr "Activeer de ViaTim bezorgoptie voor jouw webshop."
+
+#: viatim-woocommerce-plugin.php:197
+msgid "API Key"
+msgstr "API Sleutel"
+
+#: viatim-woocommerce-plugin.php:200
+msgid ""
+"Entering your API key will make sure all orders from your webshop, send with "
+"ViaTim, will be created automatically in our <a href='#'>Control Panel</a>. "
+"<br> Don't have an API key yet? Contact us at <a href='mailto:it@viatim."
+"nl'>it@viatim.nl</a>"
+msgstr ""
+"Wanneer je API Sleutel ingevuld is, zullen alle bestellingen die verzonden "
+"worden met ViaTim, direct gekoppeld worden aan jouw account op het ViaTim "
+"Control Panel. <br> Heb je nog geen API Sleutel? Neem dan contact met ons op "
+"via <a href=“mailto:it@viatim.nl”>it@viatim.nl</a>"
+
+#: viatim-woocommerce-plugin.php:204
+msgid "Select Delivery Options"
+msgstr "Selecteer bezorgopties"
+
+#: viatim-woocommerce-plugin.php:212
+msgid ""
+"Select which delivery options you want to use. Select multiple while holding "
+"the CTRL/CMD key."
+msgstr ""
+"Selecteer welke bezorgoptie je wilt gebruiken. Selecteer meerdere opties "
+"door de CTRL/CMD toets ingedrukt te houden."
+
+#: viatim-woocommerce-plugin.php:216
+msgid "Next Day Delivery"
+msgstr "ViaTim Standaard Bezorging"
+
+#: viatim-woocommerce-plugin.php:219
+msgid "Enter the rates for Next Day Delivery."
+msgstr "Voer de tarieven in voor ViaTim Standaard Bezorging."
+
+#: viatim-woocommerce-plugin.php:223
+msgid "International Delivery"
+msgstr "Buitenland Bezorging"
+
+#: viatim-woocommerce-plugin.php:226
+msgid "Enter the rates for International Delivery."
+msgstr "Voer de tarieven in voor Buitenland Bezorging."
+
+#: viatim-woocommerce-plugin.php:230
+msgid "Free Delivery"
+msgstr "Gratis Bezorging"
+
+#: viatim-woocommerce-plugin.php:233
+msgid "Enter the amount needed for Free Shipping."
+msgstr "Voer het bedrag in wat benodigd is voor Gratis Bezorging."
+
+#: viatim-woocommerce-plugin.php:237
+msgid "Same Day Delivery"
+msgstr "Same Day Bezorging"
+
+#: viatim-woocommerce-plugin.php:240
+msgid "Enter the rates for Same Day Delivery."
+msgstr "Voer de tarieven in voor Same Day Bezorging."
+
+#: viatim-woocommerce-plugin.php:244
+msgid "Same Day Time Window (Start)"
+msgstr "Same Day Starttijd"
+
+#: viatim-woocommerce-plugin.php:247
+msgid "Enter the start time for Same Day Delivery."
+msgstr ""
+"Voer hier de tijd in, vanaf wanneer klanten ViaTim Same Day bezorging kunnen "
+"kiezen."
+
+#: viatim-woocommerce-plugin.php:251
+msgid "Same Day Time Window (End)"
+msgstr "Same Day Eindtijd"
+
+#: viatim-woocommerce-plugin.php:254
+msgid "Enter the end time for Same Day Delivery."
+msgstr "Voer hier de eindtijd in van de Same Day optie in."
+
+#. Plugin Name of the plugin/theme
+msgid "ViaTim WooCommerce Extension"
+msgstr "ViaTim WooCommerce Plugin"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://www.viatim.nl"
+msgstr "https://www.viatim.nl"
+
+#. Author of the plugin/theme
+msgid "Roy Sijnesael (ViaTim)"
+msgstr "Roy Sijnesael (ViaTim)"
